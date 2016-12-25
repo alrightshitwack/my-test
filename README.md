@@ -1,3 +1,5 @@
+THis is a merg conflict example.
+
 Hello Cloud Guru
 # my-test
 My test repository
